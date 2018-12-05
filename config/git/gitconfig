@@ -1,0 +1,13 @@
+[user]
+	name = Zhenhai Gao
+	email = gaozh1988@live.com
+[alias]
+	s = status
+    l = log
+	b = branch
+    c = checkout
+    r = remote
+    ll = log --pretty=format:\"%h %ci %cn %m%m %s\"
+	co = checkout
+[commit]
+	template = /root/.gitmessage
